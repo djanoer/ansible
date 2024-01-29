@@ -1,5 +1,5 @@
 ---
-- hosts: srv-ubuntu
+- hosts: all
 
   become: true
   tasks:
